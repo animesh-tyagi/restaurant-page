@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     flex: 1;
     align-items: center;
-    background-color:rgb(164, 109, 222);
+    background-color:rgb(244, 206, 188);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -22,11 +22,11 @@ nav {
 
 button {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:rgb(94, 218, 45);
+    background-color:rgb(235, 72, 50);
     height: 30px;
     width: 100px;
     border-radius: 10px;
-    border-color:aliceblue;
+    border-color:rgb(209, 45, 23);
 }
 
 .content {
@@ -39,6 +39,7 @@ button {
 
 .heading {
     font-size: 30px;
+    color: rgb(209, 45, 23);
 }
 
 .item {
@@ -52,7 +53,7 @@ img {
     height: 350px;
     width: 600px;
     border-radius: 50px;
-    border: 5px black;
+    border: 2px solid rgb(209, 45, 23);
 }
 
 .item p {
