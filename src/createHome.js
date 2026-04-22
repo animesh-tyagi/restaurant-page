@@ -15,4 +15,4 @@ function createHome() {
     frag.appendChild(homeInfo);
     content.appendChild(frag);
     
-}
+};
