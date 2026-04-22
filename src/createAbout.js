@@ -10,7 +10,7 @@ function createAbout() {
     frag.appendChild(heading);
     
     const aboutInfo = document.createElement("p");
-    aboutInfo.innerHTML = "you lowkey don't need to know anymore information about us.";
+    aboutInfo.innerHTML = "tf bro, mind your own business. Ever head of this thing called privacy?";
     frag.appendChild(aboutInfo);
 
     content.appendChild(frag);
